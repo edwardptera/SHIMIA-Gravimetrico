@@ -15,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo1.ipynb)
 
 * RJMCMC Grupo2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo2.ipynb)
 
 # ML
 
