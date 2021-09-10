@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Gravimetro
 
 You can use the [editor on GitHub](https://github.com/edwardptera/Gravimetro/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+# RJMCMC
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC.ipynb)
 
 ### Markdown
 
