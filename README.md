@@ -8,15 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # RJMCMC
 
-|||
-|:-:|:-:|
+|Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />|
+|:-|:-:|
 |RJMCMC|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC.ipynb)|
 |RJMCMC Grupo1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo1.ipynb)|
 |RJMCMC Grupo2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo2.ipynb)|
 
 # ML
 
-|||
+|Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />|
 |:-:|:-:|
 |Colombia union|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Colombia_union.ipynb)|
 |Data|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Data.ipynb)|
@@ -24,6 +24,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 |Maps|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Maps.ipynb)|
 |SRTM|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/SRTM.ipynb)|
 |my rectangle|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/my_rectangle.ipynb)|
+
 
 <!-- 
 ### Markdown
