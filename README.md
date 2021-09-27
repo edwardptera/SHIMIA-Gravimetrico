@@ -8,13 +8,13 @@ You can use the [editor on GitHub](https://github.com/edwardptera/Gravimetro/edi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
 
-## Gravimetro
+## Gravity
 
 Conjunto de notebooks interactivos que simulan las características básicas de un gravímetro tipo LaCoste & Romberg, explicaciones básicas sobre correcciones gravimetricas
 
 |Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />|
 |:-:|:-:|
-|||
+|Gravedad Teorica|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravity/Gravedad_Teorica.ipynb)|
 
 ## ML
 
