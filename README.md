@@ -1,16 +1,18 @@
-# Gravimetro
-
-En esta pagina web se encuentran publicados algunos recursos interactivos con temas de gravimetría aprovechando las maquinas virtuales de Google Colaboratory, que pueden ejecutarse en cualquier ordenador desde el navegador temporalmente.
-
 <!-- 
 You can use the [editor on GitHub](https://github.com/edwardptera/Gravimetro/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
 
+# Gravimetro
+
+En esta pagina web se encuentran publicados algunos recursos interactivos con temas de gravimetría aprovechando las maquinas virtuales de Google Colaboratory, que pueden ejecutarse en cualquier ordenador desde el navegador temporalmente.
+
 ## Gravity
 
-Conjunto de notebooks interactivos que simulan las características básicas de un gravímetro tipo LaCoste & Romberg, explicaciones básicas sobre correcciones gravimetricas
+Conjunto de notebooks interactivos que simulan las características básicas de un gravímetro tipo LaCoste & Romberg, explicaciones básicas sobre correcciones gravimetricas.
+
+* **Gravedad Teorica:** Cálculos de la gravedad teórica modelando la Tierra como un elipsoide con valores de los parámetros a lo largo del tiempo y sus diferencias.
 
 |Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />|
 |:-:|:-:|
@@ -50,6 +52,6 @@ Conjunto de notebooks interactivos que muestran el método de inversión gravim�
 |Grupo1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo1.ipynb)|
 |Grupo2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo2.ipynb)|
 
-| | |
-|:-:|:-:|
+<!--
 |RJMCMC|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC.ipynb)|
+-->
