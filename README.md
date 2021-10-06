@@ -44,6 +44,9 @@ Conjunto de notebooks con métodos de regresión con Macgine Learning (ML) para 
 Conjunto de notebooks interactivos que muestran el método de inversión gravimétrica con el algoritmo Reverse-Jump Markov Chain Montecarlo (RJMCMC).
 
 * **Grupo 1**, los estudiantes podrán interactuar con el método directo (usando la ecuación de Talwani) en un modelo simplificado en 2D.
+
+<!-- Ahora con Gradio. ![Gradio](https://gradio.app/static/home/img/logo_inline.svg) -->
+
 * **Grupo 2**, los estudiantes usaran el algoritmo RJMCMC para realizar una inversión gravimétrica utilizando, por ejemplo, los datos de anomalías gravimétricas por el grupo 1.
 
 
