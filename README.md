@@ -16,7 +16,8 @@ Conjunto de notebooks interactivos que simulan las características básicas de 
 
 |Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />|
 |:-:|:-:|
-|Gravedad Teorica|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravity/Gravedad_Teorica.ipynb)|
+|Gravedad Teorica|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Gravedad_Teorica.ipynb)|
+|Deriva Instrumental|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Deriva_Instrumental.ipynb)|
 
 ## ML
 
@@ -54,7 +55,3 @@ Conjunto de notebooks interactivos que muestran el método de inversión gravim�
 |:-:|:-:|
 |Grupo1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo1.ipynb)|
 |Grupo2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo2.ipynb)|
-
-<!--
-|RJMCMC|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC.ipynb)|
--->
