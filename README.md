@@ -13,14 +13,18 @@ En esta pagina web se encuentran publicados algunos recursos interactivos con te
 Conjunto de notebooks interactivos que simulan las características básicas de un gravímetro tipo LaCoste & Romberg, explicaciones básicas sobre correcciones gravimetricas.
 
 * **Gravedad Teorica:** Cálculos de la gravedad teórica modelando la Tierra como un elipsoide con valores de los parámetros a lo largo del tiempo y sus diferencias.
-* **Correcciones:** Correcciones aire libre, bouger
-* **Deriva Instrumental:**  Ejemplo de calculo de deriva intrumental
+* **Correcciones:** Correcciones aire libre, bouger...
+* **Deriva Instrumental:**  Ejemplo de calculo de deriva intrumental.
+* **Unicidad:**  Problema de unicidad en inversión gravimetrica.
+* **Trypod:**  Ajuste del tripode.
 
-|Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />|
+|Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png"/>|
 |:-:|:-:|
 |Gravedad Teorica|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Gravedad_Teorica.ipynb)|
 |Correcciones|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Correcciones.ipynb)|
 |Deriva Instrumental|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Deriva_Instrumental.ipynb)|
+|Unicidad|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Unicidad.ipynb)|
+|Trypod|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Trypod.ipynb)|
 
 ## ML
 
