@@ -31,6 +31,22 @@ Conjunto de notebooks interactivos que simulan las características básicas de 
 |Unicidad|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Unicidad.ipynb)|
 |Trypod|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Trypod.ipynb)|
 
+## RJMCMC
+
+Conjunto de notebooks interactivos que muestran el método de inversión gravimétrica con el algoritmo Reverse-Jump Markov Chain Montecarlo (RJMCMC).
+
+* **Grupo 1**, los estudiantes podrán interactuar con el método directo (usando la ecuación de Talwani) en un modelo simplificado en 2D.
+
+<!-- Ahora con Gradio. ![Gradio](https://gradio.app/static/home/img/logo_inline.svg) -->
+
+* **Grupo 2**, los estudiantes usaran el algoritmo RJMCMC para realizar una inversión gravimétrica utilizando, por ejemplo, los datos de anomalías gravimétricas por el grupo 1.
+
+
+|Notebook|<img height=32 src="https://colab.research.google.com/img/favicon.ico"/>|
+|:-:|:-:|
+|Grupo1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo1.ipynb)|
+|Grupo2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo2.ipynb)|
+
 ## ML
 
 Conjunto de notebooks con métodos de regresión con Macgine Learning (ML) para completar anomalías gravimétricas según la base de datos de [gravimetria del NOAA](https://www.ngdc.noaa.gov/mgg/gravity/) GRAVCD-colomb97 realizada por Instituto Geográfico Agustín Codazzi (IGAC) en 1997
@@ -51,19 +67,3 @@ Conjunto de notebooks con métodos de regresión con Macgine Learning (ML) para 
 |Data|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Data.ipynb)|
 |IA|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/IA.ipynb)|
 |Maps|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Maps.ipynb)|
-
-## RJMCMC
-
-Conjunto de notebooks interactivos que muestran el método de inversión gravimétrica con el algoritmo Reverse-Jump Markov Chain Montecarlo (RJMCMC).
-
-* **Grupo 1**, los estudiantes podrán interactuar con el método directo (usando la ecuación de Talwani) en un modelo simplificado en 2D.
-
-<!-- Ahora con Gradio. ![Gradio](https://gradio.app/static/home/img/logo_inline.svg) -->
-
-* **Grupo 2**, los estudiantes usaran el algoritmo RJMCMC para realizar una inversión gravimétrica utilizando, por ejemplo, los datos de anomalías gravimétricas por el grupo 1.
-
-
-|Notebook|<img height=32 src="https://colab.research.google.com/img/favicon.ico"/>|
-|:-:|:-:|
-|Grupo1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo1.ipynb)|
-|Grupo2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo2.ipynb)|
