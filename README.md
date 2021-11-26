@@ -12,13 +12,18 @@ En esta pagina web se encuentran publicados algunos recursos interactivos con te
 
 Conjunto de notebooks interactivos que simulan las características básicas de un gravímetro tipo LaCoste & Romberg, explicaciones básicas sobre correcciones gravimetricas.
 
+
+<img height=32 src="https://gradio.s3-us-west-2.amazonaws.com/2.4.0/static/media/logo.411acfd1.svg"/>
+<img height=32 src="https://i.ibb.co/6DVLqmf/noun-tools-2220412.png"/>
+
+
 * **Gravedad Teorica:** Cálculos de la gravedad teórica modelando la Tierra como un elipsoide con valores de los parámetros a lo largo del tiempo y sus diferencias.
 * **Correcciones:** Correcciones aire libre, bouger...
 * **Deriva Instrumental:**  Ejemplo de calculo de deriva intrumental.
 * **Unicidad:**  Problema de unicidad en inversión gravimetrica.
 * **Trypod:**  Ajuste del tripode.
 
-|Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png"/>|
+|Notebook|<img height=32 src="https://colab.research.google.com/img/favicon.ico"/>|
 |:-:|:-:|
 |Gravedad Teorica|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Gravedad_Teorica.ipynb)|
 |Correcciones|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/Gravimetry/Correcciones.ipynb)|
@@ -38,7 +43,7 @@ Conjunto de notebooks con métodos de regresión con Macgine Learning (ML) para 
 * **Maps:** Se crean los mapas con las predicciones y comparaciones de los resultados.
 
 
-|Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />|
+|Notebook|<img height=32 src="https://colab.research.google.com/img/favicon.ico"/>|
 |:-:|:-:|
 |Colombia union|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Colombia_union.ipynb)|
 |my rectangle|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/my_rectangle.ipynb)|
@@ -58,7 +63,7 @@ Conjunto de notebooks interactivos que muestran el método de inversión gravim�
 * **Grupo 2**, los estudiantes usaran el algoritmo RJMCMC para realizar una inversión gravimétrica utilizando, por ejemplo, los datos de anomalías gravimétricas por el grupo 1.
 
 
-|Notebook|<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />|
+|Notebook|<img height=32 src="https://colab.research.google.com/img/favicon.ico"/>|
 |:-:|:-:|
 |Grupo1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo1.ipynb)|
 |Grupo2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/RJMCMC/RJMCMC_Grupo2.ipynb)|
