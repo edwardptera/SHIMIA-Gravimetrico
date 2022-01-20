@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
+# https://github.com/AASJournals/Tutorials/blob/master/Repositories/CitingRepositories.md
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Eduardo"
+  given-names: "Henao Restrepo"
+  orcid: "https://orcid.org/0000-0002-7094-0474"
+- family-names: "Jorge H."
+  given-names: "López-Botero"
+- family-names: "Jorge E."
+  given-names: "Tobón"
+- family-names: "Gloria"
+  given-names: "Moncayo"
+  orcid: "https://orcid.org/0000-0001-6604-5453"
+title: "My Research Software"
+version: 0.0
+# doi: 
+date-released: 2022-01-01
+url: "https://github.com/edwardptera/Gravimetro"

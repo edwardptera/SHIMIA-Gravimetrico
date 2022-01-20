@@ -12,11 +12,6 @@ En esta pagina web se encuentran publicados algunos recursos interactivos con te
 
 Conjunto de notebooks interactivos que simulan las características básicas de un gravímetro tipo LaCoste & Romberg, explicaciones básicas sobre correcciones gravimetricas.
 
-
-<img height=32 src="https://gradio.s3-us-west-2.amazonaws.com/2.4.0/static/media/logo.411acfd1.svg"/>
-<img height=32 src="https://i.ibb.co/6DVLqmf/noun-tools-2220412.png"/>
-
-
 * **Gravedad Teorica:** Cálculos de la gravedad teórica modelando la Tierra como un elipsoide con valores de los parámetros a lo largo del tiempo y sus diferencias.
 * **Correcciones:** Correcciones aire libre, bouger...
 * **Deriva Instrumental:**  Ejemplo de calculo de deriva intrumental.
@@ -37,7 +32,9 @@ Conjunto de notebooks interactivos que muestran el método de inversión gravim�
 
 * **Grupo 1**, los estudiantes podrán interactuar con el método directo (usando la ecuación de Talwani) en un modelo simplificado en 2D.
 
-<!-- Ahora con Gradio. ![Gradio](https://gradio.app/static/home/img/logo_inline.svg) -->
+<!-- Ahora con Gradio. 
+<img height=32 src="https://gradio.s3-us-west-2.amazonaws.com/2.4.0/static/media/logo.411acfd1.svg"/>
+<img height=32 src="https://i.ibb.co/6DVLqmf/noun-tools-2220412.png"/> -->
 
 * **Grupo 2**, los estudiantes usaran el algoritmo RJMCMC para realizar una inversión gravimétrica utilizando, por ejemplo, los datos de anomalías gravimétricas por el grupo 1.
 
@@ -51,19 +48,17 @@ Conjunto de notebooks interactivos que muestran el método de inversión gravim�
 
 Conjunto de notebooks con métodos de regresión con Macgine Learning (ML) para completar anomalías gravimétricas según la base de datos de [gravimetria del NOAA](https://www.ngdc.noaa.gov/mgg/gravity/) GRAVCD-colomb97 realizada por Instituto Geográfico Agustín Codazzi (IGAC) en 1997
 
-* **Colombia union:** Se crea un archivo `shapefile` del croquis de Colombia uniendo información de [naturalearthdata](https://www.naturalearthdata.com/) y la [DIAN](https://geoportal.dane.gov.co/).
-* **my rectangle:** Se crea el archivo `shapefile` del rectángulo con de área de estudio.
+* **Shapefiles:** Se crea un archivo `shapefile` del croquis de Colombia uniendo información de [naturalearthdata](https://www.naturalearthdata.com/) y la [DIAN](https://geoportal.dane.gov.co/). Y se crea el archivo `shapefile` del rectángulo con de área de estudio.
+* **NOAA-Gravity:**  Se descarga y organiza la base de datos [GRAVCD-colomb97](https://www.ngdc.noaa.gov/mgg/gravity/1999/data/regional/colomb97/)
 * **SRTM:** Se utiliza la librería [srtm.py](https://github.com/tkrajina/srtm.py) para descargar información de elevaciones [Shuttle Land Elevation Data]( https://www2.jpl.nasa.gov/srtm/)
-* **Data:**  Se descarga y organiza la base de datos [GRAVCD-colomb97](https://www.ngdc.noaa.gov/mgg/gravity/1999/data/regional/colomb97/)
 * **IA:** Se definen y entrenan los métodos de Machine Learning con los cueles se harán las regresiones para Colombia, Antioquia y el área de Estudio
 * **Maps:** Se crean los mapas con las predicciones y comparaciones de los resultados.
 
 
 |Notebook|<img height=32 src="https://colab.research.google.com/img/favicon.ico"/>|
 |:-:|:-:|
-|Colombia union|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Colombia_union.ipynb)|
-|my rectangle|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/my_rectangle.ipynb)|
+|Shapefiles|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Shapefiles.ipynb)|
+|NOAA-Gravity|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/NOAA-Gravity.ipynb)|
 |SRTM|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/SRTM.ipynb)|
-|Data|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Data.ipynb)|
 |IA|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/IA.ipynb)|
 |Maps|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edwardptera/Gravimetro/blob/main/ML/Maps.ipynb)|
