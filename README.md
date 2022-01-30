@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/edwardptera/Gravimetro/edi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
 
-# Gravimetro
+# SHIMIA Gravimetrico
 
 En esta pagina web se encuentran publicados algunos recursos interactivos con temas de gravimetría aprovechando las maquinas virtuales de Google Colaboratory, que pueden ejecutarse en cualquier ordenador desde el navegador temporalmente.
 
