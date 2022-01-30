@@ -13,8 +13,8 @@ authors:
 - family-names: "Gloria"
   given-names: "Moncayo"
   orcid: "https://orcid.org/0000-0001-6604-5453"
-title: "My Research Software"
-version: 0.0
+title: "SHIMIA-Gravimetrico"
+version: 0.1
 # doi: 
 date-released: 2022-01-01
-url: "https://github.com/edwardptera/Gravimetro"
+url: "https://edwardptera.github.io/SHIMIA-Gravimetrico/"
